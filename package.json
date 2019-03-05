@@ -1,0 +1,25 @@
+{
+  "name": "api-project",
+  "version": "1.0.0",
+  "description": "API group project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisamareesimpson2000/Git-Exercise.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Lisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisamareesimpson2000/Git-Exercise/issues"
+  },
+  "homepage": "https://github.com/lisamareesimpson2000/Git-Exercise#readme",
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
